@@ -1,1 +1,3 @@
 mistral-7b-instruct-v0.2.Q5_K_M.gguf
+email_classification_model.h5
+combined_data.csv
