@@ -1,0 +1,9 @@
+tensorflow-hub==0.16.1
+tensorflow-text==2.10.0
+tensorflow==2.10.1
+pandas 
+seaborn
+matplotlib
+numpy 
+scikit-learn
+llama-cpp-python
