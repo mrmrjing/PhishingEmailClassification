@@ -1,3 +1,5 @@
+# Archived Repository
+** This repository has been archived and is now read-only.
 # Project Name: Phishing E-mail detection and reply system powered by LLMs
 
 ## Introduction:
